@@ -1,0 +1,38 @@
+.logo {
+    color: black;
+}
+.navbar {
+    background-color:pink;
+}
+
+.body{
+    background-color:pink;
+}
+.body{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.pagetitle{
+    background-color: pink;
+}
+.mainblog{
+    background-color: pink;
+}
+a{
+    text-decoration: none;
+}
+.button1{
+    background-color: palevioletred;
+    border: white;
+    text-align: center;
+    font-size: 16px;
+
+
+}
+.box{
+    border-color: palevioletred;
+
+}
+.section-title{
+  color: palevioletred;
+}
